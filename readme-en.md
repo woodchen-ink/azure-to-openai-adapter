@@ -1,7 +1,5 @@
-<div align="center">
-<h1 align="center">Azure-To-Openai-Adapter</h1>
 [English](./readme-en.md) / [简体中文](./readme.md)
-</div>
+
 # Deploy a proxy using node.js(node>=16) to call the Azure openai interface in openai.
 
 ## Usage
