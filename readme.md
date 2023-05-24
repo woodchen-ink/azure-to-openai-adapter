@@ -1,7 +1,5 @@
-<div align="center">
-<h1 align="center">Azure-To-Openai-Adapter</h1>
 [English](./readme-en.md) / [简体中文](./readme.md)
-</div>
+
 # 使用node.js(node>=16)部署代理，以调用openai的方式，调用azure的openai接口
 
 ## 使用方法
