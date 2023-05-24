@@ -1,6 +1,7 @@
 [English](./readme-en.md) / [简体中文](./readme.md)
 
 # Deploy a proxy using node.js(node>=16) to call the Azure openai interface in openai.
+This project aims to help developers deploy a proxy server using Node.js, allowing them to call Azure's OpenAI interface in the same way as they would with OpenAI. Follow the steps below to set up and use the project:
 
 ## Usage
 1. Download this project and modify it according to the instructions in app.js.
