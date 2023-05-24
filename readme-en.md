@@ -2,7 +2,7 @@
 <h1 align="center">Azure-To-Openai-Adapter</h1>
 [English](./readme-en.md) / [简体中文](./readme.md)
 </div>
-# Deploy a proxy using node.js to call the Azure openai interface in openai.
+# Deploy a proxy using node.js(node>=16) to call the Azure openai interface in openai.
 
 ## Usage
 1. Download this project and modify it according to the instructions in app.js.
@@ -17,3 +17,8 @@
     ```
     node app.js
     ```
+
+4. Call the Azure interface in the same way as calling `openai`.
+
+> The API endpoint is: http://localhost:3000/v1/chat/completions
+> Enter the Azure key for the key.
